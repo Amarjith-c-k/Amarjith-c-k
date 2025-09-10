@@ -1,7 +1,7 @@
 <!-- Profile README for Amarjith-c-k -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/Amarjith-c-k/your-uploaded-image.jpg" alt="Amarjith working" width="320" style="border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/78ce677e-d97d-40a4-a00a-0b208c6e45ab" alt="Amarjith working" width="320" style="border-radius: 10px;"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Amarjith C K</h1>
